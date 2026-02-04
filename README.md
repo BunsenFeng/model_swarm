@@ -1,6 +1,8 @@
 # Model Swarms
 
-Repository for [Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence](https://arxiv.org/abs/2410.11163). A fork of [link](https://github.com/google-research/google-research/tree/master/model_swarm) but more frequently updated here.
+Repository for [Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence](https://arxiv.org/abs/2410.11163), ICML 2025.
+
+🌟 **A better implementation of Model Swarms, as well as many other multi-LLM collaboration approaches, is now available in [MoCo](https://github.com/BunsenFeng/model_collaboration)!**
 
 ## Quick Start
 
